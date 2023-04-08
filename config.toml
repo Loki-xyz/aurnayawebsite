@@ -2,3 +2,5 @@ baseURL = 'http://lokesh.red/'
 languageCode = 'en-us'
 title = '@lokesh'
 theme = "cactus"
+  colortheme = "dark" # dark, light, white, or classic
+
