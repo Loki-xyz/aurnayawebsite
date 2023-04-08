@@ -1,9 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://lokesh.red"
 languageCode = "en-us"
-title = "Cactus theme example"
+title = "@Lokesh"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+disqusShortname = "Lokesh" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
 
@@ -85,10 +85,10 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/Loki-xyz"
   [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    name = "Discord"
+    link = "https://discord.com/users/563370732839501842"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "hey@lokesh.red"  # no need for "mailto:" in the head
