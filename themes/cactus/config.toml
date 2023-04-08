@@ -59,7 +59,7 @@ weight = 3
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2006-01-02" # default
+  dateFormat = "01-02-2006" # default
 
   # Post page settings
   show_updated = true # default
